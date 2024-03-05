@@ -47,3 +47,4 @@ True
 
 >>> m_doc = __import__('7-base_geometry').BaseGeometry.area.__doc__
 >>> len(m_doc) > 1
+True
